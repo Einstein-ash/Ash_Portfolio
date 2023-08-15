@@ -23,25 +23,26 @@ const About = () => {
         <article className="about_card">
          <FaAward className='about_icon'/>
          <h5>Leetcode</h5>
-         <small>275+ questions</small>
+         <small>25+ questions</small>
         </article>
 
-        <article className="about_card">
+        {/* <article className="about_card">
          <FiUsers className='about_icon'/>
          <h5>Codechef</h5>
          <small>Highest rating 1542 </small>
-        </article>
+        </article> */}
 
         <article className="about_card">
          <VscFolderLibrary className='about_icon'/>
          <h5>Projects</h5>
-         <small>6+ Completed</small>
+         <small>5+ Completed</small>
         </article>
         </div>
 
         <p>
+          <br />
 I take pride in my proficiency as a frontend and backend developer. With a passion for competitive programming and creative problem-solving, I'm dedicated to excellence in all things technica</p>
-
+<br /><br />
         <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
         </div> 
