@@ -1,12 +1,15 @@
 footer{
-    background: var(--color-primary);
+    /* background: var(--color-primary); */
+    background: rgb(24, 24, 24);
+
     padding: 3rem 0;
     text-align: center;
     font-size: 0.9rem;
     margin-top: 7rem;
+    border : 20px  solid linear-gradient(45deg,black,rgb(43, 43, 111), white);
 }
 footer a{
-    color: var(--color-bg);
+    color: white;
 
 }
 
