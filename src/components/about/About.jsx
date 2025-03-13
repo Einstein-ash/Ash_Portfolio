@@ -41,7 +41,7 @@ const About = () => {
 
         <p>
           <br />
-I take pride in my proficiency as a frontend and backend developer. With a passion for competitive programming and creative problem-solving, I'm dedicated to excellence in all things technica</p>
+I take pride in my proficiency as a frontend and backend developer. With a passion for competitive programming and creative problem-solving, I'm dedicated to excellence in all things technical</p>
 <br /><br />
         <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
