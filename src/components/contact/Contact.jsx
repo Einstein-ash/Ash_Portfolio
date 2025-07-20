@@ -1,10 +1,12 @@
 import React from 'react'
 import "./contact.css"
+
 import {MdOutlineEmail} from 'react-icons/md'
 import {RiMessengerLine} from 'react-icons/ri'
 import {BsWhatsapp} from 'react-icons/bs'
 import  { useRef } from 'react';
 import emailjs from 'emailjs-com'
+
 const Contact = () => {
 const form =useRef();
 const sendEmail = (e) => {
@@ -23,8 +25,8 @@ const sendEmail = (e) => {
           <article className="contact_option">
           <MdOutlineEmail className='contact_option-icon'/>
             <h4>Email</h4>
-            <h5>12115051@nitkkr.ac.in</h5>
-            <a href="mailto:12115059@nitkkr.ac.in" target='_blank'>Send a message </a>
+            <h5>ashwanisingh46572@gmail.com</h5>
+            <a href="mailto:ashwanisingh46572@gmail.com" target='_blank'>Send a message </a>
           </article>
           <article className="contact_option">
           <RiMessengerLine className='contact_option-icon'/>
